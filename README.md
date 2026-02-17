@@ -50,6 +50,7 @@ Full-stack Node.js & Express e-commerce platform with authentication, cart logic
 ### 🔹 Attention & Focus Development Web Application
 Flask-based web application with backend routing and structured architecture.  
 🌐 Live: https://neurotakip.pythonanywhere.com/
+
 🔗 Code: https://github.com/aberk4y/Attention-Focus-Development-Web-Application
 
 ---
