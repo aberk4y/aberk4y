@@ -1,15 +1,15 @@
 # Hi, I'm Berkay 👋
 
-Software Engineering Student focused on building full-stack web applications and machine learning projects.
+Software Engineering Student building full-stack web applications and machine learning systems.
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 Software Engineering Student
-- 💻 Developing Full-Stack Web Applications
-- 🧠 Working on Machine Learning & Risk Prediction Systems
-- 📊 Interested in data-driven applications and scalable architectures
+- 💻 Full-Stack Development (Node.js, Express, Flask)
+- 🧠 Machine Learning & Risk Prediction Systems
+- 📊 Interested in scalable backend architectures and data-driven systems
 
 ---
 
@@ -17,40 +17,52 @@ Software Engineering Student focused on building full-stack web applications and
 
 ### Languages
 - Python
+- JavaScript
 - Java
 - SQL
-- JavaScript
 
-### Web Development
-- Flask (Jinja2 Templating)
+### Backend
+- Node.js
+- Express.js
+- Flask
+
+### Frontend
 - HTML
 - CSS
+- JavaScript
 
 ### Machine Learning
 - scikit-learn
 - Pandas
 - NumPy
-- Model Evaluation & Risk Prediction
 
 ---
 
 ## 📌 Featured Projects
 
+### 🔹 Cristobal Textile E-Commerce Platform
+Full-stack Node.js & Express e-commerce platform with authentication, cart logic, database integration, and localization support.  
+🌐 Live: https://misty-bonni-0cristobal0-8ae4fe9c.koyeb.app/  
+🔗 Code: https://github.com/aberk4y/Cristobal-Textile-E-Commerce-Platform
+
+---
+
 ### 🔹 Attention & Focus Development Web Application
-Flask-based web application designed to improve attention and focus skills with database integration and dynamic templates.  
-🔗 https://github.com/aberk4y/Dikkat-Odak_Gelisim_Projesi
+Flask-based web application with backend routing and structured architecture.  
+🌐 Live: https://neurotakip.pythonanywhere.com/
+🔗 Code: https://github.com/aberk4y/Attention-Focus-Development-Web-Application
 
 ---
 
 ### 🔹 ADHD Analysis & Risk Prediction System
 Machine learning project focused on ADHD data analysis and probability-based risk prediction modeling.  
-🔗 https://github.com/aberk4y/ADHD_AnalizProjesi
+🔗 Code: https://github.com/aberk4y/ADHD-Analysis-Risk-Prediction-Project
 
 ---
 
 ### 🔹 DeepSign Project
-Deep learning-based project focused on sign recognition and intelligent pattern detection.  
-🔗 https://github.com/ByTe52/DeepSign-Proje
+Deep learning-based project focused on intelligent sign recognition.  
+🔗 Code: https://github.com/ByTe52/DeepSign-Proje
 
 ---
 
