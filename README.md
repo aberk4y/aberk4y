@@ -7,27 +7,26 @@ Software Engineering Student focused on building full-stack web applications and
 ## 🚀 About Me
 
 - 🎓 Software Engineering Student
-- 💻 Developing Full-Stack Web Applications with Flask
-- 🧠 Working on Machine Learning & Risk Prediction Projects
-- 📊 Interested in data-driven systems and scalable architectures
+- 💻 Developing Full-Stack Web Applications
+- 🧠 Working on Machine Learning & Risk Prediction Systems
+- 📊 Interested in data-driven applications and scalable architectures
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages**
+### Languages
 - Python
 - Java
 - SQL
 - JavaScript
 
-**Web Development**
-- Flask
+### Web Development
+- Flask (Jinja2 Templating)
 - HTML
 - CSS
-- Jinja2
 
-**Machine Learning**
+### Machine Learning
 - scikit-learn
 - Pandas
 - NumPy
@@ -37,11 +36,24 @@ Software Engineering Student focused on building full-stack web applications and
 
 ## 📌 Featured Projects
 
-🔹 Attention & Focus Development Web Application (Flask)  
-🔹 ADHD Analysis & Risk Prediction System (Machine Learning)
+### 🔹 Attention & Focus Development Web Application
+Flask-based web application designed to improve attention and focus skills with database integration and dynamic templates.  
+🔗 https://github.com/aberk4y/Dikkat-Odak_Gelisim_Projesi
 
 ---
 
-## 📫 Connect with Me
+### 🔹 ADHD Analysis & Risk Prediction System
+Machine learning project focused on ADHD data analysis and probability-based risk prediction modeling.  
+🔗 https://github.com/aberk4y/ADHD_AnalizProjesi
+
+---
+
+### 🔹 DeepSign Project
+Deep learning-based project focused on sign recognition and intelligent pattern detection.  
+🔗 https://github.com/ByTe52/DeepSign-Proje
+
+---
+
+## 🌐 Connect with Me
 
 LinkedIn: https://www.linkedin.com/in/berkayaras00
