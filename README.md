@@ -1,9 +1,5 @@
 # Hi, I'm Berkay 👋
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=aberk4y&color=ff6b35&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
-
 Software Engineering Student interested in **Mobile Development, Backend Engineering, Artificial Intelligence, and Data Science**.
 
 ---
@@ -47,7 +43,7 @@ A machine learning project using the Indian Liver Patient Dataset (ILPD) to comp
 - **Key Technologies:** Python, Pandas, NumPy, Scikit-learn, imbalanced-learn, SciPy
 - **Methods:** Data preprocessing, feature engineering, Information Gain, SMOTE, PCA, GridSearchCV, and stratified cross-validation
 - **Evaluation:** Accuracy, precision, recall, F1-score, ROC-AUC, ablation experiments, and gender-based error analysis
-- 📦 **Repository:** [ILPD-Liver-Disease-Classification](https://github.com/aberk4y/ILPD-Liver-Disease-Classification)
+- 📦 **Repository:** [ILPD Liver Disease Classification](https://github.com/aberk4y/ILPD-Liver-Disease-Classification)
 
 #### 🍲 3. Flavice
 
@@ -76,22 +72,15 @@ A Flask-based web application designed to support attention and cognitive develo
 
 A machine learning project focused on ADHD-related data analysis and risk prediction using statistical analysis and predictive modeling.
 
+- **Key Technologies:** Python, Machine Learning, Statistical Analysis
 - 📦 **Repository:** [ADHD Analysis & Risk Prediction](https://github.com/aberk4y/ADHD-Analysis-Risk-Prediction-Project)
 
 #### 🤟 7. DeepSign
 
 A deep learning and computer vision project focused on Turkish Sign Language (TİD) recognition and classification.
 
+- **Key Technologies:** Deep Learning, Neural Networks, Computer Vision
 - 📦 **Repository:** [DeepSign Project](https://github.com/ByTe52/DeepSign-Proje)
-
----
-
-### 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aberk4y&show_icons=true&theme=transparent&title_color=ff6b35&icon_color=ff6b35&text_color=7f7f7f" alt="Berkay's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aberk4y&layout=compact&theme=transparent&title_color=ff6b35&text_color=7f7f7f" alt="Top Languages" width="48%" />
-</p>
 
 ---
 
