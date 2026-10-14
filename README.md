@@ -4,17 +4,17 @@
   <img src="https://komarev.com/ghpvc/?username=aberk4y&color=ff6b35&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
-Software Engineering Student passionate about **Mobile Development (Flutter)**, **Full-Stack Engineering**, **Artificial Intelligence**, and **Data-Driven Software Solutions**.
+Software Engineering Student interested in **Mobile Development, Backend Engineering, Artificial Intelligence, and Data Science**.
 
 ---
 
 ### 🚀 About Me
 
-* 🎓 **Education:** 3rd Year Software Engineering Student
-* 📱 **Mobile Focus:** High-performance, cross-platform mobile experiences with Flutter & Dart
-* 🧠 **AI & Vision:** Deep Learning, Neural Networks, Computer Vision, and Predictive Modeling
-* ⚙️ **Architecture:** Clean code, custom UI architectures (Bezier paths, animations), and local/cloud database optimization
-* 🛠 **Goal:** Building scalable, user-centered, and production-ready modern software products
+- 🎓 **Education:** Software Engineering Student
+- 📱 **Mobile Development:** Flutter and Dart
+- ⚙️ **Backend Development:** Node.js, Express.js, REST APIs, and database integration
+- 🧠 **AI & Data Science:** Machine Learning, predictive modeling, and model evaluation
+- 🎯 **Focus:** Building practical software solutions and improving my skills through hands-on projects
 
 ---
 
@@ -23,43 +23,66 @@ Software Engineering Student passionate about **Mobile Development (Flutter)**, 
 | Domain | Technologies |
 | :--- | :--- |
 | **Languages** | `Dart`, `Python`, `JavaScript`, `Java`, `SQL` |
-| **Mobile Development** | `Flutter`, `SQLite`, `Cupertino UI`, `Native Bridges` |
-| **Backend & Cloud** | `Node.js`, `Express.js`, `Flask`, `REST APIs`, `Postman` |
-| **AI & Data Science** | `Scikit-learn`, `Pandas`, `NumPy`, `Computer Vision` |
+| **Mobile Development** | `Flutter`, `SQLite`, `Cupertino UI` |
+| **Backend Development** | `Node.js`, `Express.js`, `Flask`, `REST APIs` |
+| **AI & Data Science** | `Scikit-learn`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn` |
 | **Tools & Platforms** | `Git`, `GitHub`, `VS Code`, `Koyeb`, `PythonAnywhere` |
 
 ---
 
 ### 📌 Featured Projects
 
-#### 🎲 1. Flavice
-A modern Flutter-based culinary companion application that helps users discover recipes, explore meal categories, search by ingredients, and receive intelligent cooking suggestions through a premium Cupertino-inspired mobile experience.
-* **Key Tech:** Flutter, CustomPainter (Bezier Curves), PageView Animations, SQLite Local DB.
-* 📦 **Repository:** [github.com/aberk4y/flavice](https://github.com/aberk4y/flavice)
+#### 💰 1. Aslanoğlu Kuyumculuk Mobile Application
 
-#### 💰 2. Aslanoğlu Mobile App
-Production-ready Flutter application delivering real-time financial market data, including live gold prices and foreign exchange rates through a fast, responsive, and user-friendly mobile experience.
-* **Key Tech:** Flutter, Live API Integration, Real-Time Data Sync, State Management.
-* 📱 **Download:** [Google Play](https://play.google.com/store/apps/details?id=com.aslanoglu) | [App Store](https://apps.apple.com/hu/app/aslano%C4%9Flu/id6770956743)
+A Flutter-based mobile application for viewing gold prices and foreign exchange rates, supported by a backend service and an administrative interface.
 
-#### 👔 3. Cristobal Textile E-Commerce Platform
-Full-stack e-commerce platform developed using Node.js and Express, featuring authentication, shopping cart management, localization support, product administration, and database integration.
-* **Key Tech:** Node.js, Express.js, Multi-Language Support, Session Auth, Deployment on Koyeb.
-* 🌐 **Live Demo:** [cristobal-textile.koyeb.app](https://misty-bonni-0cristobal0-8ae4fe9c.koyeb.app/)
-* 📦 **Repository:** [github.com/aberk4y/Cristobal-Textile...](https://github.com/aberk4y/Cristobal-Textile-E-Commerce-Platform)
+- **Key Technologies:** Flutter, Node.js, Express.js, MongoDB, REST APIs
+- 📱 **Google Play:** [Download on Google Play](https://play.google.com/store/apps/details?id=com.aslanoglu)
+- 🍎 **App Store:** [View on the App Store](https://apps.apple.com/hu/app/aslano%C4%9Flu/id6770956743)
 
-#### 🧠 4. Attention & Focus Development Web Application
-Flask-based web application designed to support attention improvement and cognitive development through structured exercises, activity tracking, and personalized progress monitoring.
-* 🌐 **Live Demo:** [neurotakip.pythonanywhere.com](https://neurotakip.pythonanywhere.com/)
-* 📦 **Repository:** [github.com/aberk4y/Attention-Focus...](https://github.com/aberk4y/Attention-Focus-Development-Web-Application)
+#### 🧠 2. ILPD Liver Disease Classification & Bias Analysis
 
-#### 📊 5. ADHD Analysis & Risk Prediction System
-Machine learning project focused on ADHD data analysis and probability-based risk prediction using statistical evaluation and predictive modeling techniques.
-* 📦 **Repository:** [github.com/aberk4y/ADHD-Analysis...](https://github.com/aberk4y/ADHD-Analysis-Risk-Prediction-Project)
+A machine learning project using the Indian Liver Patient Dataset (ILPD) to compare classification algorithms, evaluate model performance, and investigate gender-based differences in false negative rates.
 
-#### 🤟 6. DeepSign Project
-Deep learning and computer vision project focused on intelligent Turkish Sign Language (TİD) recognition and classification using neural network-based image processing techniques.
-* 📦 **Repository:** [github.com/ByTe52/DeepSign-Proje](https://github.com/ByTe52/DeepSign-Proje)
+- **Key Technologies:** Python, Pandas, NumPy, Scikit-learn, imbalanced-learn, SciPy
+- **Methods:** Data preprocessing, feature engineering, Information Gain, SMOTE, PCA, GridSearchCV, and stratified cross-validation
+- **Evaluation:** Accuracy, precision, recall, F1-score, ROC-AUC, ablation experiments, and gender-based error analysis
+- 📦 **Repository:** [ILPD-Liver-Disease-Classification](https://github.com/aberk4y/ILPD-Liver-Disease-Classification)
+
+#### 🍲 3. Flavice
+
+A Flutter-based recipe application for discovering recipes, exploring meal categories, searching by ingredients, and finding meal suggestions.
+
+- **Key Technologies:** Flutter, Dart, SQLite, CustomPainter, PageView animations
+- 📦 **Repository:** [Flavice](https://github.com/aberk4y/flavice)
+
+#### 🛒 4. Cristobal Textile E-Commerce Platform
+
+A full-stack e-commerce application featuring authentication, shopping cart management, multilingual support, product administration, and database integration.
+
+- **Key Technologies:** Node.js, Express.js, database integration, session-based authentication
+- 🌐 **Live Demo:** [Open Application](https://misty-bonni-0cristobal0-8ae4fe9c.koyeb.app/)
+- 📦 **Repository:** [Cristobal Textile E-Commerce Platform](https://github.com/aberk4y/Cristobal-Textile-E-Commerce-Platform)
+
+#### 🧠 5. Attention & Focus Development Web Application
+
+A Flask-based web application designed to support attention and cognitive development through structured exercises and progress tracking.
+
+- **Key Technologies:** Python, Flask
+- 🌐 **Live Demo:** [Open Application](https://neurotakip.pythonanywhere.com/)
+- 📦 **Repository:** [Attention & Focus Development](https://github.com/aberk4y/Attention-Focus-Development-Web-Application)
+
+#### 📊 6. ADHD Analysis & Risk Prediction System
+
+A machine learning project focused on ADHD-related data analysis and risk prediction using statistical analysis and predictive modeling.
+
+- 📦 **Repository:** [ADHD Analysis & Risk Prediction](https://github.com/aberk4y/ADHD-Analysis-Risk-Prediction-Project)
+
+#### 🤟 7. DeepSign
+
+A deep learning and computer vision project focused on Turkish Sign Language (TİD) recognition and classification.
+
+- 📦 **Repository:** [DeepSign Project](https://github.com/ByTe52/DeepSign-Proje)
 
 ---
 
@@ -86,5 +109,5 @@ Deep learning and computer vision project focused on intelligent Turkish Sign La
 ---
 
 <p align="center">
-  <i>⭐ Building modern mobile applications, intelligent systems, and scalable software solutions.</i>
+  <i>Building practical mobile applications, backend services, and data-driven software projects.</i>
 </p>
